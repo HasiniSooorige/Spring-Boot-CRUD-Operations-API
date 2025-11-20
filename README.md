@@ -28,7 +28,5 @@ This backend is fully testable using Postman and includes endpoints for Create, 
 *You can test all endpoints using Postman:
 *Set Content-Type: application/json
 *Use raw JSON for POST/PUT requests
+*Verify responses and status codes (200, 201, 404, 500)
 
-Verify responses and status codes (200, 201, 404, 500)
-📦 Project Structure
-src/ma
